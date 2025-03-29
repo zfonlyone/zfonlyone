@@ -21,29 +21,55 @@
 
 ## 技术栈 🛠️
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 
 ## 我的项目 🏗️
 
-[![NeverMiss](https://github-readme-stats.vercel.app/api/pin/?username=zfonlyone&repo=NeverMiss&theme=tokyonight)](https://github.com/zfonlyone/NeverMiss)
-[![unlock_steam](https://github-readme-stats.vercel.app/api/pin/?username=zfonlyone&repo=unlock_steam&theme=tokyonight)](https://github.com/zfonlyone/unlock_steam)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zfonlyone/NeverMiss">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zfonlyone&repo=NeverMiss&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zfonlyone/unlock_steam">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zfonlyone&repo=unlock_steam&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 统计信息 📊
 
-![zfonlyone's GitHub stats](https://github-readme-stats.vercel.app/api?username=zfonlyone&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zfonlyone&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zfonlyone&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfonlyone&layout=compact&theme=tokyonight" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zfonlyone&theme=tokyo-night&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zfonlyone&theme=tokyo-night&hide_border=true" />
+</p>
 
-![Visitor Count](https://profile-counter.glitch.me/zfonlyone/count.svg)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/zfonlyone/count.svg" />
+</p>
 
 ---
 
-[![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:zfonlyone@outlook.com)
+<p align="center">
+  <a href="mailto:zfonlyone@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
