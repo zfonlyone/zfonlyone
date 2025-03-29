@@ -22,13 +22,13 @@
 ## 技术栈 🛠️
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </div>
 
 ## 我的项目 🏗️
@@ -46,24 +46,15 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zfonlyone&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfonlyone&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zfonlyone&theme=onedark&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zfonlyone&theme=tokyo-night&hide_border=true" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zfonlyone&theme=tokyonight" />
-</div>
-
-## 活动记录 📈
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=zfonlyone&theme=tokyo-night" />
-</div>
-
-## 访客统计 👀
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/zfonlyone/count.svg" />
