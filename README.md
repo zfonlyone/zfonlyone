@@ -1,7 +1,7 @@
 # 敲代码的吟游诗人 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=热爱编程的吟游诗人;Never+Miss+Any+Valuable+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=Never+Miss+Any+Valuable+Things" alt="Typing SVG" />
 </div>
 
 ## 关于我 🧙‍♂️
